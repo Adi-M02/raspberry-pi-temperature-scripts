@@ -7,7 +7,7 @@ Logs ARM CPU and GPU temperatures in degrees Celcius of a Raspberry Pi 4 running
 
 
 ## Usage
-Launch using watch command with a 5 second interval to monitor 
+Launch in terminal using watch command with a 5 second interval to monitor temperatures. 
 ```
 $ watch -n 5 path/to/file/./my-pi-temp.sh
 ```
